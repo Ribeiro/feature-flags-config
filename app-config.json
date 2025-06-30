@@ -1,0 +1,8 @@
+{
+    "service": "app-config",
+    "feature": "use_zone",
+    "context": {
+      "platform": "ios",
+      "app_version": "5.1.0"
+    }
+}
