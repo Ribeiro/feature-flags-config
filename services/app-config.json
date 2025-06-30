@@ -1,4 +1,4 @@
-{
+[{
     "service": "app-config",
     "feature": "use_zone",
     "context": {
@@ -6,3 +6,4 @@
       "app_version": "5.1.0"
     }
 }
+]
