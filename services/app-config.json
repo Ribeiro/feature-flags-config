@@ -1,9 +1,18 @@
-[{
-    "service": "app-config",
-    "feature": "use_zone",
-    "context": {
-      "platform": "ios",
-      "app_version": "5.1.0"
-    }
-}
+[
+  {
+    "name": "app-config",
+    "type": "context",
+    "conditions": [
+             {
+                 "field": "platform",
+                 "value": "ios",
+                 "operation": "eq"
+             },
+             {
+                 "field": "app_version",
+                 "value": "5.1.0",
+                 "operation": "eq"
+             }
+        ]
+  }
 ]
