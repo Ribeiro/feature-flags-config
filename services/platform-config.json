@@ -6,7 +6,7 @@
              {
                  "field": "balance",
                  "value": "10000,00",
-                 "operation": "gt"
+                 "operation": "eq"
              }
         ]
   }
